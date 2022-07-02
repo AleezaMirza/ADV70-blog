@@ -1,0 +1,38 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_maindiv{
+    border: 1px solid lightgrey;
+}
+
+.movie_head{
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.glyphicon-star{
+    color: orange;
+}
+
+li{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
